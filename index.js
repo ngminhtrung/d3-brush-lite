@@ -1,5 +1,5 @@
 export {
-  default as brush,
+  default as brushLite,
   brushX,
   brushY,
   brushSelection
